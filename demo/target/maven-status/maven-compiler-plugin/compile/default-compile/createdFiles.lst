@@ -1,0 +1,3 @@
+com\uce\hadoop\CacaoDriver.class
+com\uce\hadoop\CacaoMapper.class
+com\uce\hadoop\CacaoReducer.class
